@@ -1,2 +1,3 @@
 # belajar-kolaborasi
-1.buat repository
++buat repository
++buat README.md
